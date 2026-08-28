@@ -9,4 +9,6 @@ then select wazuh-archives
 <img width="713" height="573" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/5d2d0fbd-43e7-4445-9deb-7d5deb91cedf" />
 We will be creating a failed logon dashboard. At the top you will put "data.win.system.eventID:4625" which is the eventID# for a failed logon in Windows. The click save, and come up with a title for it. I called my Failed Windows Logon, and click Save and return.
 <img width="1253" height="1040" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/29bf99ae-8b5f-424d-a66a-a8afab7ea6bf" />
+Then go to the top and click on save and for the Dashboard i will title is "Basic SOC Activity Overview."
+<img width="824" height="1063" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/b8008fea-3566-4ca7-af67-a6c5686e9dd9" />
 
