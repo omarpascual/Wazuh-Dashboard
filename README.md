@@ -11,4 +11,8 @@ We will be creating a failed logon dashboard. At the top you will put "data.win.
 <img width="1253" height="1040" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/29bf99ae-8b5f-424d-a66a-a8afab7ea6bf" />
 Then go to the top and click on save and for the Dashboard i will title is "Basic SOC Activity Overview."
 <img width="824" height="1063" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/b8008fea-3566-4ca7-af67-a6c5686e9dd9" />
+To add a new dashboard we will go to the top and click on edit, which will be where the +create new button is located. Then click on add --> create new. Once you click on +create new, a drop down will appear and you'll want to click on visualization.
+<img width="1274" height="396" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/81768aca-7426-4998-898a-238c0c403ef5" />
+I will be clicking on the line and for the New Line/Choose a source i will be clicking on wazuh-archives.
+<img width="799" height="723" alt="Screenshot 2026-08-28 192903" src="https://github.com/user-attachments/assets/805dc370-2141-466c-ac60-64f74cbc8176" />
 
