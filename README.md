@@ -34,4 +34,5 @@ Next bucket will be the same with field being "data.srcuser"
 <img width="379" height="676" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/b3ae4144-7db5-4460-b958-eaa0b741edaf" />
 Next Bucket, the field will be "data.dstuser" Make sure that the show missing values is on, in case no data is found.
 <img width="378" height="802" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/41efd63e-28a5-4965-b0ff-ade76e386afb" />
-
+Last we will add a bucket with the field value of "data.srcip"
+<img width="1303" height="1072" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/d22211e1-1a48-4bc5-bca5-4a92eaf11753" />
