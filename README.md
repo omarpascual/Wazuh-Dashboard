@@ -26,4 +26,6 @@ Next Dashboard will be a Data Table. Click on it. then on wazuh-archives.
 <img width="1092" height="954" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/3edd7a65-20d2-40dc-8230-9e258a5164f1" />
 This table will be focused on linux failed logon.
 <img width="1300" height="302" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/81969c1b-7aeb-4bb8-a937-88d9ee575816" />
+Our first Bucket will be split rows, with aggregation is terms. Field will be agent.name
+<img width="392" height="595" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/980e44ba-ab0e-4f8f-86b2-5fdf485b5bf8" />
 
