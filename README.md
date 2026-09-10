@@ -20,4 +20,6 @@ We will create a new data by adding data.win.system.eventID: ("4720" OR "4722" O
 <img width="1289" height="1175" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/f128f606-c646-4999-905d-4058baa73576" />
 we will go to dashboard management > Index Patterns page. Once there click on Wazuh-archives and hit the refresh button
 <img width="1305" height="965" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/0b36b433-edaa-4006-80c0-e6c3d87247cf" />
+Then go back to the visualization chart and refresh page. Fill in as last time. Hit update. Save and name it. Then hit save
+<img width="1112" height="1225" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/71ea182c-f07e-4dd6-9669-ff7b79fb825d" />
 
