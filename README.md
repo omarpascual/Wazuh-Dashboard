@@ -18,4 +18,6 @@ I will be clicking on the line and for the New Line/Choose a source i will be cl
 
 We will create a new data by adding data.win.system.eventID: ("4720" OR "4722" OR "4723" OR "4724" OR "4725" OR "4726" OR "4732" OR "4733" OR "4738") into the upper line. We will leave the y-axis as is. Click on buckets and add the X-axis. For aggregation I will use Date Histogram and Field=timestamp. We will click on the +add and click on split series. For the sub aggregation it will be terms. In the field we will add data.win.system.eventID but will not be there so we will have to refresh the field list.
 <img width="1289" height="1175" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/f128f606-c646-4999-905d-4058baa73576" />
-we will go to dashboard management > Index Patterns page.
+we will go to dashboard management > Index Patterns page. Once there click on Wazuh-archives and hit the refresh button
+<img width="1305" height="965" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/0b36b433-edaa-4006-80c0-e6c3d87247cf" />
+
