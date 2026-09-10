@@ -24,4 +24,6 @@ Then go back to the visualization chart and refresh page. Fill in as last time. 
 <img width="1112" height="1225" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/71ea182c-f07e-4dd6-9669-ff7b79fb825d" />
 Next Dashboard will be a Data Table. Click on it. then on wazuh-archives.
 <img width="1092" height="954" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/3edd7a65-20d2-40dc-8230-9e258a5164f1" />
+This table will be focused on linux failed logon.
+<img width="1300" height="302" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/81969c1b-7aeb-4bb8-a937-88d9ee575816" />
 
