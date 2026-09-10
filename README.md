@@ -28,4 +28,10 @@ This table will be focused on linux failed logon.
 <img width="1300" height="302" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/81969c1b-7aeb-4bb8-a937-88d9ee575816" />
 Our first Bucket will be split rows, with aggregation is terms. Field will be agent.name
 <img width="392" height="595" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/980e44ba-ab0e-4f8f-86b2-5fdf485b5bf8" />
+Next Bucket will be the same but the field will now be "timestamp"
+<img width="392" height="685" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/850c1b50-0321-44ae-b6b8-70b2cea66997" />
+Next bucket will be the same with field being "data.srcuser"
+<img width="379" height="676" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/b3ae4144-7db5-4460-b958-eaa0b741edaf" />
+Next Bucket, the field will be "data.dstuser" Make sure that the show missing values is on, in case no data is found.
+<img width="378" height="802" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/41efd63e-28a5-4965-b0ff-ade76e386afb" />
 
