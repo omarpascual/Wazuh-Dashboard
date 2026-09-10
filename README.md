@@ -36,3 +36,5 @@ Next Bucket, the field will be "data.dstuser" Make sure that the show missing va
 <img width="378" height="802" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/41efd63e-28a5-4965-b0ff-ade76e386afb" />
 Last we will add a bucket with the field value of "data.srcip"
 <img width="1303" height="1072" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/d22211e1-1a48-4bc5-bca5-4a92eaf11753" />
+Save it and name it.
+<img width="699" height="650" alt="Screenshot 2026-09-09 235512" src="https://github.com/user-attachments/assets/f44196a9-731f-47c4-aa7c-09cbc1baaa30" />
